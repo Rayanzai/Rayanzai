@@ -11,11 +11,13 @@
 </div>
 
 ##
+
 <div style="display: inline_block"><br>
   Conhecimento básico em:
   <img align="center" alt="rayan-azure" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" alt="rayan-reactJS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
+
 ##
 
 <div style="display: inline_block"><br>
