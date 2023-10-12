@@ -1,7 +1,8 @@
-# RAYAN ANZAI - DEV and Musician ### Análise e desenvolvimente de sistemas - FATEC Presidente Prudente
+## RAYAN ANZAI - DEV and Musician 
+
+### Análise e desenvolvimente de sistemas - FATEC Presidente Prudente
 
 
-##
 <div style="display: inline_block"><br>
   Conhecimentos em:
   <img align="center" alt="RAYAN-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
