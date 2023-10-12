@@ -1,4 +1,6 @@
-### RAYAN ANZAI - Analise e Desenvolvimento de sistemas
+# RAYAN ANZAI - DEV and Musician
+### Análise e desenvolvimente de sistemas - FATEC Presidente Prudente
+
 
 ##
 <div style="display: inline_block"><br>
@@ -22,7 +24,7 @@
 
 <div style="display: inline_block"><br>
   Estudando em:
-  <img align="center" alt="rayan-mysql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="rayan-mysql" heigth="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="rayan-reactJS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
